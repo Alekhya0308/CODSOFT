@@ -5,11 +5,11 @@ quiz_data = [
     {
         "question": "What is the capital of France?",
         "options": ["A) London", "B) Paris", "C) Berlin", "D) Madrid"],
-        "answer": "B) Paris"
+        "answer": "B"
     },
     {
-        "question": "Which gas do plants absorb from the atmosphere?",
-        "answer": "Carbon dioxide"
+        "question": "Who is the first prime minister of india",
+        "answer": "Jawaharlal Nehru"
     },
     {
         "question": "What is 7 multiplied by 8?",
@@ -18,7 +18,7 @@ quiz_data = [
     {
         "question": "What is the largest mammal in the world?",
         "options": ["A) Elephant", "B) Giraffe", "C) Blue Whale", "D) Lion"],
-        "answer": "C) Blue Whale"
+        "answer": "C"
     }
 ]
 
